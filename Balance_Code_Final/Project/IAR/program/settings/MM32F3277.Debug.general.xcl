@@ -1,0 +1,15 @@
+"D:\IAR8.32.4\arm\bin\armproc.dll" 
+
+"D:\IAR8.32.4\arm\bin\armJET.dll" 
+
+"C:\Users\26912\Desktop\Software\Balance_Code_Final\Project\IAR\program\Debug\Exe\MM32F3277.out" 
+
+--plugin="D:\IAR8.32.4\arm\bin\armbat.dll" 
+
+--device_macro="D:\IAR8.32.4\arm\config\debugger\MindMotion\MM32F3270.dmac" 
+
+--flash_loader="D:\IAR8.32.4\arm\config\flashloader\MindMotion\FlashMM32F327xGx.board" 
+
+
+
+

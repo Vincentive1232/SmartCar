@@ -1,0 +1,1333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>4</fileVersion>
+    <fileChecksum>2189178301</fileChecksum>
+    <configuration>
+        <name>Debug</name>
+        <outputs>
+            <file>$PROJ_DIR$\..\..\CODE\SEU_Control.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\seekfree_libraries\board\board.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\seekfree_libraries\board\board.h</file>
+            <file>$PROJ_DIR$\..\..\CODE\SEU_Menu.c</file>
+            <file>$PROJ_DIR$\..\..\CODE\SEU_Image_Processing.c</file>
+            <file>$PROJ_DIR$\..\..\CODE\SEU_Init.c</file>
+            <file>$PROJ_DIR$\..\..\CODE\SEU_Encoder.c</file>
+            <file>$PROJ_DIR$\..\..\CODE\SEU_IMU963RA.c</file>
+            <file>$PROJ_DIR$\..\..\CODE\SEU_State.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\seekfree_libraries\common\SEEKFREE_PRINTF.c</file>
+            <file>$PROJ_DIR$\..\..\CODE\SEU_Signal_Image_Process.c</file>
+            <file>$PROJ_DIR$\..\..\CODE\SEU_UART.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\seekfree_libraries\common\common.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\seekfree_libraries\common\SEEKFREE_ASSERT.h</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\seekfree_libraries\common\SEEKFREE_ASSERT.c</file>
+            <file>$PROJ_DIR$\..\..\CODE\SEU_Fuzzy_Control.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\seekfree_libraries\common\common.h</file>
+            <file>$PROJ_DIR$\..\..\CODE\SEU_ICM20602.c</file>
+            <file>$TOOLKIT_DIR$\inc\c\iccarm_builtin.h</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\Include\types.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\zf_spi.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_flash.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\common.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_rtc.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\isr.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEEKFREE_UART_7725.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEEKFREE_18TFT.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\zf_spi.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\Include\reg_eth.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\zf_device_imu963ra.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEU_IMU963RA.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_dma.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_tim.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEU_Fuzzy_Control.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEU_State.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_uid.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\zf_tim.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\zf_pit.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEU_Control.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEU_Menu.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\zf_uart.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdbool.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_crs.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\zf_device_imu963ra.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEEKFREE_IPS200_PARALLEL8.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEU_ICM20602.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_wwdg.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_ver.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEEKFREE_IPS114_SPI.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\Include\reg_dac.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\zf_adc.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_wwdg.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_eth.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_i2c.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEU_Control.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEEKFREE_TSL1401.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\Include\reg_adc.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_crc.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEU_Image_Processing.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_comp.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\Include\reg_bkp.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEEKFREE_UART_7725.o</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\Include\reg_rtc.h</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\Include\reg_sdio.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEEKFREE_18TFT.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEU_IMU963RA.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\system_mm32f327x.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEEKFREE_ABSOLUTE_ENCODER.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_ver.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_tim.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_uart.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_flash.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\Include\reg_iwdg.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_misc.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEEKFREE_7725.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_comp.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEU_Image_Processing.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\zf_adc.o</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\Include\reg_wwdg.h</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\Include\reg_flash.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_gpio.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEEKFREE_ICM20602.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\Include\reg_dbg.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\cmsis_iar.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_pwr.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEEKFREE_IPS114_SPI.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_iwdg.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\zf_pwm.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\startup_mm32f327x_iar.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEU_Encoder.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\zf_tim.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEEKFREE_MT9V03X.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEEKFREE_L3G4200D.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_i2c.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEU_State.o</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\Include\reg_rcc.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_can.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_rcc.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEEKFREE_IIC.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\Include\reg_dma.h</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\Include\reg_uart.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEU_UART.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\zf_systick.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_fsmc.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\Include\reg_tim.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\zf_camera.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_crs.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEEKFREE_VIRSCO.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_float_setup.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEU_Fuzzy_Control.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_uid.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\zf_systick.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEEKFREE_ICM20602.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEEKFREE_PRINTF.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEEKFREE_ABSOLUTE_ENCODER.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEEKFREE_ASSERT.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\Include\mm32_reg_redefine_v1.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEEKFREE_WIRELESS.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\board.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\zf_camera.o</file>
+            <file>$PROJ_DIR$\Debug\Exe\MM32F3277.out</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_pwr.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\assert.h</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\Include\reg_i2c.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\zf_flash.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_dbg.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\Include\reg_common.h</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\Include\reg_pwr.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEEKFREE_7725.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\zf_exti.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEEKFREE_IPS200_PARALLEL8.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_adc.o</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\CMSIS\IAR_Core\core_cm3.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_dac.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEEKFREE_MT9V03X.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\zf_pwm.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEEKFREE_ASSERT.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEEKFREE_MMA8451.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEEKFREE_MPU6050.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_misc.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEU_Signal_Image_Process.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEEKFREE_FONT.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEEKFREE_MMA8451.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEEKFREE_L3G4200D.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEEKFREE_PRINTF.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\Include\reg_spi.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_dbg.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEU_Menu.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\Include\reg_exti.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_fsmc.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_sdio.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_bkp.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\MM32F3277.pbd</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_adc.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\Include\reg_usb_otg_fs.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEU_Encoder.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\system_mm32f327x.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_eth.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEU_Init.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\Include\reg_comp.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Full.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEEKFREE_OLED.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\Include\reg_crc.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEEKFREE_FONT.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\zf_gpio.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_spi.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_iwdg.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_bkp.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_sdio.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\zf_fsmc.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\Include\reg_pwm.h</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\Include\mm32_device.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\zf_uart.o</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\CMSIS\IAR_Core\cmsis_compiler.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\Include\reg_syscfg.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\math.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\zf_exti.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\isr.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEEKFREE_MPU6050.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_dac.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\seekfree_peripheral\SEEKFREE_ABSOLUTE_ENCODER.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\seekfree_peripheral\SEEKFREE_FONT.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\seekfree_peripheral\SEEKFREE_ICM20602.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\seekfree_libraries\zf_camera.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\seekfree_libraries\zf_pwm.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\seekfree_libraries\zf_exti.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\seekfree_libraries\zf_flash.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\seekfree_libraries\zf_pit.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\seekfree_libraries\zf_spi.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\seekfree_libraries\zf_gpio.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\seekfree_libraries\zf_systick.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\seekfree_libraries\zf_fsmc.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\seekfree_libraries\zf_uart.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\seekfree_libraries\zf_tim.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\seekfree_libraries\zf_uart.h</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\seekfree_peripheral\SEEKFREE_18TFT.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\seekfree_peripheral\SEEKFREE_7725.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Inc\hal_dac.h</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_can.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_bkp.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_dbg.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_eth.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Inc\hal_crs.h</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Inc\hal_eth_conf.h</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_exti.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Inc\hal_exti.h</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Inc\hal_dma.h</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Inc\hal_conf.h</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Inc\hal_crc.h</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Inc\hal_eth.h</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_flash.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Inc\hal_dbg.h</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_fsmc.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Inc\hal_can.h</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Inc\hal_fsmc.h</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_crc.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_comp.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_gpio.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Inc\hal_adc.h</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Inc\hal_flash.h</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Inc\hal_gpio.h</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_dma.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Inc\hal_comp.h</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_crs.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_adc.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Inc\hal_bkp.h</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_dac.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_wwdg.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Inc\hal_wwdg.h</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Inc\hal_rtc.h</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Inc\hal_syscfg.h</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_sdio.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\seekfree_libraries\zf_adc.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Inc\hal_iwdg.h</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_pwr.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_uart.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Inc\hal_redefine.h</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_rtc.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Inc\hal_misc.h</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_ver.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_rcc.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Inc\hal_spi.h</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Inc\hal_uart.h</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_uid.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Inc\hal_i2c.h</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Inc\hal_pwr.h</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_spi.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Inc\hal_tim.h</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_i2c.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_iwdg.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_misc.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Inc\hal_rcc.h</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_tim.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Inc\hal_uid.h</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\seekfree_peripheral\SEEKFREE_VIRSCO.c</file>
+            <file>$PROJ_DIR$\..\..\USER\src\isr.c</file>
+            <file>$PROJ_DIR$\..\..\USER\src\main.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\Source\system_mm32f327x.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\seekfree_peripheral\SEEKFREE_MPU6050.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\seekfree_peripheral\SEEKFREE_OLED.c</file>
+            <file>$PROJ_DIR$\..\..\USER\inc\isr.h</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\seekfree_peripheral\SEEKFREE_IPS114_SPI.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\seekfree_peripheral\SEEKFREE_L3G4200D.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\seekfree_peripheral\SEEKFREE_IPS200_PARALLEL8.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\seekfree_peripheral\SEEKFREE_IIC.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\seekfree_peripheral\SEEKFREE_MT9V03X.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\seekfree_peripheral\SEEKFREE_TSL1401.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\seekfree_peripheral\SEEKFREE_UART_7725.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\seekfree_peripheral\SEEKFREE_WIRELESS.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\seekfree_peripheral\zf_device_imu963ra.c</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\Source\IAR_StartAsm\startup_mm32f327x_iar.s</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\seekfree_peripheral\SEEKFREE_MMA8451.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEU_Init.o</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\Include\reg_crs.h</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\Include\reg_can.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_can.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_spi.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEU_UART.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_rtc.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEEKFREE_WIRELESS.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_exti.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_dma.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\common.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEEKFREE_VIRSCO.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\zf_fsmc.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\zf_flash.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_gpio.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_crc.o</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\Include\reg_gpio.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_rcc.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\board.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\zf_gpio.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEU_Signal_Image_Process.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_exti.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEU_ICM20602.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\zf_pit.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEEKFREE_OLED.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_uart.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\Include\mm32_reg.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEEKFREE_IIC.o</file>
+            <file>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\Include\reg_fsmc.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEEKFREE_TSL1401.o</file>
+        </outputs>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 125</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\CODE\SEU_Control.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 54</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\seekfree_libraries\board\board.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 300</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 123</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 80 167 83 41 19 221 238 63 111 16 18 180 255 185 182 117 232 230 240 224 131 85 179 103 308 252 13 86 235 212 215 243 239 219 60 283 155 128 98 184 79 56 127 112 204 217 145 137 150 168 165 228 223 218 207 216 229 254 248 261 251 257 263 246 213 284 171 49 102 28 298 72 132 62 152 107 161 121 84 309 2 311 75</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\CODE\SEU_Menu.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 39</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 154</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\CODE\SEU_Image_Processing.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 58</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 77</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\CODE\SEU_Init.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 282</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 166</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\CODE\SEU_Encoder.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 92</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 162</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\CODE\SEU_IMU963RA.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 30</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 65</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\CODE\SEU_State.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 97</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 34</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\seekfree_libraries\common\SEEKFREE_PRINTF.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 118</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 151</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\CODE\SEU_Signal_Image_Process.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 146</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 302</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\CODE\SEU_UART.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 104</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 287</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\seekfree_libraries\common\common.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 22</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 292</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\seekfree_libraries\common\SEEKFREE_ASSERT.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 141</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 120</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\CODE\SEU_Fuzzy_Control.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 113</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 33</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\CODE\SEU_ICM20602.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 45</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 304</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\seekfree_peripheral\SEEKFREE_ABSOLUTE_ENCODER.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 67</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 119</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\seekfree_peripheral\SEEKFREE_FONT.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 147</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 172</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\seekfree_peripheral\SEEKFREE_ICM20602.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 116</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 82</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\seekfree_libraries\zf_camera.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 124</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 108</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\seekfree_libraries\zf_pwm.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 140</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 90</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\seekfree_libraries\zf_exti.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 134</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 186</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\seekfree_libraries\zf_flash.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 295</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 129</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\seekfree_libraries\zf_pit.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 37</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 305</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\seekfree_libraries\zf_spi.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 20</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 27</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\seekfree_libraries\zf_gpio.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 173</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 301</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\seekfree_libraries\zf_systick.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 105</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 115</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\seekfree_libraries\zf_fsmc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 294</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 178</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\seekfree_libraries\zf_uart.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 181</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 40</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\seekfree_libraries\zf_tim.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 93</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 36</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\seekfree_peripheral\SEEKFREE_18TFT.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 64</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 26</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\seekfree_peripheral\SEEKFREE_7725.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 133</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 74</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_can.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 285</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 99</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_bkp.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 176</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 158</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_dbg.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 153</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 130</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_eth.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 164</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 52</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_exti.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 303</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 290</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_flash.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 21</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 71</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_fsmc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 156</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 106</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_crc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 297</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 57</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_comp.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 76</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 59</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_gpio.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 81</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 296</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_dma.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 31</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 291</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_crs.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 109</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 42</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_adc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 136</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 160</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_dac.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 138</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 189</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_wwdg.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 46</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 51</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_sdio.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 177</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 157</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\seekfree_libraries\zf_adc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 78</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 50</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_pwr.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 126</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 87</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_uart.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 70</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 307</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_rtc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 23</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 288</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_ver.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 68</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 47</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_rcc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 100</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 299</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_uid.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 114</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 35</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_spi.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 174</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 286</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_i2c.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 96</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 53</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_iwdg.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 89</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 175</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_misc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 73</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 144</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\HAL_Lib\Src\hal_tim.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 32</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 69</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\seekfree_peripheral\SEEKFREE_VIRSCO.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 293</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 110</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\USER\src\isr.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 24</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 187</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\USER\src\main.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 183</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\Source\system_mm32f327x.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 163</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 66</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\seekfree_peripheral\SEEKFREE_MPU6050.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 143</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 188</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\seekfree_peripheral\SEEKFREE_OLED.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 306</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 170</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\seekfree_peripheral\SEEKFREE_IPS114_SPI.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 88</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 48</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\seekfree_peripheral\SEEKFREE_L3G4200D.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 149</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 95</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\seekfree_peripheral\SEEKFREE_IPS200_PARALLEL8.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 135</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 44</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\seekfree_peripheral\SEEKFREE_IIC.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 310</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 101</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\seekfree_peripheral\SEEKFREE_MT9V03X.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 94</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 139</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\seekfree_peripheral\SEEKFREE_TSL1401.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 312</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 55</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\seekfree_peripheral\SEEKFREE_UART_7725.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 61</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 25</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\seekfree_peripheral\SEEKFREE_WIRELESS.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 289</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 122</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\seekfree_peripheral\zf_device_imu963ra.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 29</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 43</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\Device\MM32F327x\Source\IAR_StartAsm\startup_mm32f327x_iar.s</name>
+            <outputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 91</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Libraries\seekfree_peripheral\SEEKFREE_MMA8451.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 148</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 142</file>
+                </tool>
+            </outputs>
+        </file>
+    </configuration>
+    <configuration>
+        <name>Release</name>
+        <outputs />
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>[REBUILD_ALL]</name>
+        </forcedrebuild>
+    </configuration>
+</project>
